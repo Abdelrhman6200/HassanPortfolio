@@ -46,7 +46,7 @@ export default function Home() {
     <main id="top">
       <header className="site-header" aria-label="Primary navigation">
         <a className="wordmark" href="#top" aria-label="Back to top">
-          <img src="/manus-storage/hassan-mohamed-logo_86c83f9a.png" alt="Hassan Mohamed" />
+          <img src="/assets/hassan-logo.png" alt="Hassan Mohamed" />
         </a>
         <nav className="main-nav" aria-label="Section navigation">
           <a href="#about">About</a>
@@ -148,7 +148,7 @@ export default function Home() {
       </section>
 
       <footer className="site-footer">
-        <a className="wordmark" href="#top"><img src="/manus-storage/hassan-mohamed-logo_86c83f9a.png" alt="Hassan Mohamed" /></a>
+        <a className="wordmark" href="#top"><img src="/assets/hassan-logo.png" alt="Hassan Mohamed" /></a>
         <p>Brand & Visual Designer / 2026</p>
         <a href="#top">Back to top ↑</a>
       </footer>

@@ -1,0 +1,5 @@
+# keep binary files byte-for-byte (autocrlf must never touch them)
+*.pdf binary
+*.png binary
+*.jpg binary
+*.webp binary

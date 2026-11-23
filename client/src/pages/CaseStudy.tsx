@@ -36,7 +36,7 @@ export default function CaseStudy() {
     <main className="case-study">
       <header className="case-header">
         <Link href="/" className="wordmark" aria-label="Back to portfolio home">
-          <img src="/manus-storage/hassan-mohamed-logo_86c83f9a.png" alt="Hassan Mohamed" />
+          <img src="/assets/hassan-logo.png" alt="Hassan Mohamed" />
         </Link>
         <Link href="/#work" className="case-back"><ArrowLeft size={16} aria-hidden="true" /> Back to selected work</Link>
       </header>
